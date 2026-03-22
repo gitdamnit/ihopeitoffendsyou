@@ -3,10 +3,9 @@ A deliberately rude web app that insults visitors in real time.  Handwritten roa
 
 # [IHOPEITOFFENDSYOU.COM](ihopeitoffendsyou.com)
 
-<img width="694" height="873" alt="image" src="https://github.com/user-attachments/assets/bb0189fa-ec67-4393-9f46-d3a7d13e7c81" />
+<img width="1153" height="940" alt="QxmY2O5Ksk" src="https://github.com/user-attachments/assets/c1dbd350-248a-4669-8762-10d38287030e" />
 
+<img width="1146" height="924" alt="firefox_y9yIDgmPxP" src="https://github.com/user-attachments/assets/1f278d2c-534c-431e-a446-060de1cf760b" />
 
-<img width="1366" height="971" alt="image" src="https://github.com/user-attachments/assets/66127f48-f104-48a7-ab51-1c38ffab60d5" />
-
-
+<img width="1133" height="922" alt="firefox_AnHwuC3Col" src="https://github.com/user-attachments/assets/997371ac-9c90-41da-92f5-7842f184e236" />
 
