@@ -9,3 +9,4 @@ A deliberately rude web app that insults visitors in real time.  Handwritten roa
 
 <img width="1133" height="922" alt="firefox_AnHwuC3Col" src="https://github.com/user-attachments/assets/997371ac-9c90-41da-92f5-7842f184e236" />
 
+Dedicated to my best bud Angie Gordon.
