@@ -1,8 +1,6 @@
 # I HOPE IT OFFENDS YOU
 A deliberately rude web app that insults visitors in real time.  Handwritten roast engine, no AI. Built with React, Express, and PostgreSQL.
 
-# [IHOPEITOFFENDSYOU.COM](ihopeitoffendsyou.com)
-
 <img width="1153" height="940" alt="QxmY2O5Ksk" src="https://github.com/user-attachments/assets/c1dbd350-248a-4669-8762-10d38287030e" />
 
 
